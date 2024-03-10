@@ -115,10 +115,7 @@ sections:
           url: https://arxiv.org/abs/2304.01852
         - title: Watch my new YouTube video to achieve 20x s
           icon: brands/youtube
-          url: https://youtube.com
-        - title: Connect with me on LinkedIn
-          icon: brands/linkedin
-          url: https://linkedin.com
+          url: https://youtube.com       
   - block: collection
     content:
       title: Recent Publications
