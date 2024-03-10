@@ -4,22 +4,22 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: home
     url: '#about'
     weight: 10
   #- name: Posts
   #  url: '#posts'
   #  weight: 20
-  #- name: Projects
-  #  url: '#projects'
-  #  weight: 30
-  - name: Talks
+  - name: Projects
+    url: 'https://arekbialek.github.io/projects/'
+    weight: 30
+  - name: talks
     url: '#talks'
     weight: 20
-  - name: Publications
+  - name: publications
     url: 'https://arekbialek.github.io/publication/'
     weight: 30
-  - name: Contact
+  - name: contact
     url: '#contact'
     weight: 40
 

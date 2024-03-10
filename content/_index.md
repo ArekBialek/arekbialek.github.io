@@ -162,11 +162,11 @@ sections:
       #coordinates:
       #  latitude: '37.4275'
       #  longitude: '-122.1697'  
-      #contact_links:
-      #  - icon: twitter
-      #    icon_pack: fab
-      #    name: DM Me
-      #    link: 'https://twitter.com/Twitter'
+      contact_links:
+        - icon: twitter
+          icon_pack: fab
+          name: DM Me
+          link: 'https://twitter.com/bialek_arek'
       #  - icon: skype
       #    icon_pack: fab
       #    name: Skype Me
