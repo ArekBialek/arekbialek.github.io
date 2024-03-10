@@ -73,6 +73,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an assistant professor at the Institute of Psychology Jagiellonian University. 
+I am an assistant professor at the Institute of Psychology, Jagiellonian University. 
 Overall, my research aims to understand development of joint action and communication. I investigate them through detailed observations of mother-infant interactions (using hand-coding and video motion tracking) and agent-based modeling. {tbc}
 {style="text-align: justify;"}

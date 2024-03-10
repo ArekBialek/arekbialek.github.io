@@ -1,7 +1,6 @@
 ---
-title: my favorite comments from students' surveys
-summary: Doktor jest niezwykle profesjonalny i wymagający, ale nadal ludzki i uprzejmy. Zawsze chętny do pomocy, świetnie przekazuje informacje i swoją wiedzę...
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. 
+title: my favorite comments from students' survey
+summary: Doktor jest niezwykle profesjonalny i wymagający, ale nadal ludzki i uprzejmy. Zawsze chętny do pomocy, świetnie przekazuje informacje i swoją wiedzę ... [cdn]
 #tags:
 #  - Demo
 #date: "2016-04-27T00:00:00Z"
