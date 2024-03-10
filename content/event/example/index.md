@@ -4,7 +4,7 @@ title: Behavioral Dynamics in Social Interactions workshop
 #event: Hugo Blox Builder Conference
 event_url: https://envisionbox.org/krakow_flyer.html
 
-location: Institute of Psychology, Jagillonian University
+location: Institute of Psychology, Jagiellonian University
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
