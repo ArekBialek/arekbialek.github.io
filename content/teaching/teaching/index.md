@@ -1,7 +1,7 @@
 ---
 title: teaching
 summary: At the Institute of Psychology at the Jagiellonian University, I teach subjects sukdkdkdkdkkkkdkdkdkdxxxxxxxxxxxxxxxxxxxxxxxx
-#abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 #text: Sed ac faucibus dolor, scelerisque sollicitudin nivsi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam
 #tags:
 #  - Demo
