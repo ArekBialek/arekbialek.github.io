@@ -10,8 +10,8 @@ main:
   #- name: Posts
   #  url: '#posts'
   #  weight: 20
-  - name: projects
-    url: '#projects'
+  - name: teaching
+    url: '#teaching'
     weight: 20
   - name: talks
     url: '#talks'

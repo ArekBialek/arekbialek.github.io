@@ -72,7 +72,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: teaching
       filters:
         folders:
           - project
