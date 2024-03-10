@@ -42,33 +42,33 @@ sections:
       title: My work
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
+  #- block: collection
+  #  id: posts
+  #  content:
+  #    title: Recent Posts
+  #    subtitle: ''
+  #    text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+  #    count: 5
       # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
+  #    filters:
+  #      folders:
+  #        - post
+  #      author: ""
+  #      category: ""
+  #      tag: ""
+  #      exclude_featured: false
+  #      exclude_future: false
+  #      exclude_past: false
+  #      publication_type: ""
       # Choose how many pages you would like to offset by
-      offset: 0
+  #    offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
+  #    order: desc
+  #  design:
       # Choose a layout view
-      view: compact
-      columns: '2'
+  #    view: compact
+  #    columns: '2'
   #- block: portfolio
   #  id: projects
   #  content:
@@ -90,12 +90,12 @@ sections:
      #     tag: Deep Learning
      #   - name: Other
      #     tag: Demo
-    design:
+  #  design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
+  #    columns: '1'
+  #    view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+  #    flip_alt_rows: false
   - block: collection
     id: featured
     content:
