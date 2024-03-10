@@ -109,7 +109,7 @@ sections:
   #    view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: recent publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -124,7 +124,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: recent & upcoming talks
       filters:
         folders:
           - event
