@@ -22,16 +22,16 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Child Development, 93, 1860-1872"
-publication_short: ""
+# publication_short: ""
 
 #abstract: 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
+#tags:
+#- Source Themes
+#featured: false
 
 # links:
 # - name: ""
