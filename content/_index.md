@@ -70,12 +70,12 @@ sections:
   #    view: compact
   #    columns: '2'
   - block: portfolio
-    id: projects
+    id: teaching
     content:
       title: teaching
       filters:
         folders:
-          - project
+          - teaching
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       #default_button_index: 0
       # Filter toolbar (optional).

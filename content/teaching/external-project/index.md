@@ -1,5 +1,5 @@
 ---
-title: teaching
+#title: teaching
 summary: I teach ....
 #tags:
 #  - Demo
