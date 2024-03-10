@@ -1,8 +1,6 @@
 ---
 title: Relevance matters. Eighteen-month-olds' use of relevant informative pointing
-  as a predictor of two-year-olds' language abilities / La relevancia es importante.
-  El uso de gestos deı́cticos relevantes e informativos por parte de niños de año
-  y medio como factor predictor de las capacidades lingüśticas a los dos años
+  as a predictor of two-year-olds' language abilities
 authors:
 - Arkadiusz Białek
 - Marta Białecka-Pikul
@@ -13,4 +11,5 @@ publishDate: '2024-03-10T16:36:19.905054Z'
 publication_types:
 - article-journal
 publication: '*Infanc. Aprendiz.*'
+url_pdf: https://www.tandfonline.com/doi/full/10.1080/02103702.2018.1514710
 ---

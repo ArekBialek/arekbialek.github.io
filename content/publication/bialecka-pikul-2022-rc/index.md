@@ -11,5 +11,6 @@ date: '2022-03-01'
 publishDate: '2024-03-10T16:36:19.880585Z'
 publication_types:
 - article-journal
-publication: '*Eur. J. Dev. Psychol.*'
+publication: '*European Journal of Developmental Psychology*'
+url_pdf: https://www.tandfonline.com/doi/full/10.1080/17405629.2021.1911799
 ---
