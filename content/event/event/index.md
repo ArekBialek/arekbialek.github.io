@@ -1,7 +1,7 @@
 ---
 title: Behavioral Dynamics in Social Interactions workshop
 
-event: Hugo Blox Builder Conference
+#event: Hugo Blox Builder Conference
 event_url: https://envisionbox.org/krakow_flyer.html
 
 #location: Institute of Psychology, Jagiellonian University
