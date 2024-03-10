@@ -10,8 +10,8 @@ main:
   #- name: Posts
   #  url: '#posts'
   #  weight: 20
-  - name: Projects
-    url: 'https://arekbialek.github.io/projects/'
+  - name: projects
+    url: '#projects'
     weight: 20
   - name: talks
     url: '#talks'
