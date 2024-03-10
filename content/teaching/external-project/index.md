@@ -1,8 +1,6 @@
 ---
 #title: teaching
-summary: I teach Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enimLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, 
-vehicula efficitur enimLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enimLorem ipsum dolor sit amet, consectetur adipiscing 
-elit. Nam mi diam, venenatis ut
+summary: I teach Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enimLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enimLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enimLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut
 magna et, vehicula efficitur enimLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim
 #tags:
 #  - Demo
