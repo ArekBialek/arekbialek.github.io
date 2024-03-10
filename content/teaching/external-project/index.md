@@ -1,8 +1,6 @@
 ---
 #title: teaching
 summary: At the Institute of Psychology at the Jagiellonian University, I teach subjects such as developmental psychology, research methods and intro to statistics, observation, cultural 
-developmental psychology and development of communication and social cognition in early childhood.
-Here are a few of my favorite comments from student surveys
 #tags:
 #  - Demo
 #date: "2016-04-27T00:00:00Z"
