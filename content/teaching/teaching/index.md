@@ -1,5 +1,7 @@
 ---
 #title: teaching
+summary: At the Institute of Psychology at the Jagiellonian University, I teach subjects such as developmental psychology, research methods and intro to statistics, observation, cultural 
+At the Institute of Psychology at the Jagiellonian University, I teach subjects such as developmental psychology, research methods and intro to statistics, observation, cultural 
 At the Institute of Psychology at the Jagiellonian University, I teach subjects such as developmental psychology, research methods and intro to statistics, observation, cultural 
 #tags:
 #  - Demo
