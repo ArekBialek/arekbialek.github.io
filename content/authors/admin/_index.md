@@ -74,5 +74,5 @@ social:
 highlight_name: true
 ---
 I am an assistant professor at the Institute of Psychology Jagiellonian University. 
-Overall, my research aims to understand development of joint action and communication. I investigate it through detailed observation of mother-infant interactions and agent-based modeling.
+Overall, my research aims to understand development of joint action and communication. I investigate it through detailed observation of mother-infant interactions and agent-based modeling. {tbc}
 {style="text-align: justify;"}
