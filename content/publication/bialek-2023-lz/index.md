@@ -11,5 +11,5 @@ publishDate: '2024-03-10T16:36:19.855795Z'
 publication_types:
 - article-journal
 publication: '*Review of Psychology*'
-pdf_url: 'https://czasopisma.uwm.edu.pl/index.php/pp/article/view/9679'
+url_pdf: https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13827
 ---
