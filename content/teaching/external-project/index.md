@@ -4,7 +4,9 @@ summary: I teach Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi
 
 vehicula efficitur enimLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enimLorem ipsum dolor sit amet, consectetur adipiscing 
 
-elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enimLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim
+elit. Nam mi diam, venenatis ut
+
+magna et, vehicula efficitur enimLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim
 #tags:
 #  - Demo
 #date: "2016-04-27T00:00:00Z"
