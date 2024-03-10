@@ -4,7 +4,7 @@ authors:
 - Marta Białecka-Pikul
 - Arkadiusz Białek
 - Magdalena Kosno
-- Małgorzata Stępie\ŉ-Nycz
+- Małgorzata Stępień-Nycz
 - Mateusz Blukacz
 - Julian Zubek
 date: '2022-03-01'

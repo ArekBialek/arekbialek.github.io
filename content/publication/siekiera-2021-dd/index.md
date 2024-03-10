@@ -8,4 +8,5 @@ publishDate: '2024-03-10T16:36:19.892929Z'
 publication_types:
 - article-journal
 publication: '*J. Theory Soc. Behav.*'
+url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsb.12275
 ---
