@@ -1,27 +1,27 @@
 ---
-title: "Coordinating movements and beliefs: Different facets of doing things together"
-authors:
-- Arkadiusz Białek
-- Julian Zubek
-- Martyna Jackiewicz-Kawka
-- Klaudia Adamik
-- Marta Białecka
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "01 August 2022"
-doi: "https://doi.org/10.1111/cdev.13827"
+#title: "Coordinating movements and beliefs: Different facets of doing things together"
+#authors:
+#- Arkadiusz Białek
+#- Julian Zubek
+#- Martyna Jackiewicz-Kawka
+#- Klaudia Adamik
+#- Marta Białecka
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+#date: "01 August 2022"
+#doi: "https://doi.org/10.1111/cdev.13827"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-01"
+#publishDate: "2022-01-01"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+#publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Child Development, 93, 1860-1872"
+#publication: "Child Development, 93, 1860-1872"
 # publication_short: ""
 
 #abstract: 
@@ -36,7 +36,7 @@ publication: "Child Development, 93, 1860-1872"
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13827
+#url_pdf: https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13827
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
