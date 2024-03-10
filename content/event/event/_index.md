@@ -1,5 +1,5 @@
 ---
-title: Behavioral Dynamics in Social Interactions workshop
+title: Behavioral Dynamics in Social Interactions
 
 #event: Hugo Blox Builder Conference
 event_url: https://envisionbox.org/krakow_flyer.html
