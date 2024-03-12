@@ -1,10 +1,10 @@
 ---
 title: Behavioral Dynamics in Social Interactions
-summary: xxxxxxxxxxxxxx
+summary: We organize great workshop :)
 #event: Hugo Blox Builder Conference
-#event_url: https://envisionbox.org/krakow_flyer.html
+event_url: https://envisionbox.org/krakow_flyer.html
 
-#location: Institute of Psychology, Jagiellonian University
+location: Institute of Psychology, Jagiellonian University
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -17,9 +17,9 @@ summary: xxxxxxxxxxxxxx
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#date: '2024-05-02'
-#date_end: '2024-05-04'
-#all_day: true
+date: '2024-05-02'
+date_end: '2024-05-04'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -39,10 +39,10 @@ summary: xxxxxxxxxxxxxx
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/bialek_arek/status/1764588155859018093
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+#url_code: ''
+#url_pdf: ''
+#url_slides: ''
+#url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -59,15 +59,4 @@ url_video: ''
 #projects:
 #  - example
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+If you are interested in participation please contact me.
