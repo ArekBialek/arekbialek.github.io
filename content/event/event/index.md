@@ -1,8 +1,8 @@
 ---
 title: Behavioral Dynamics in Social Interactions
-
+summary: xxxxxxxxxxxxxx
 #event: Hugo Blox Builder Conference
-event_url: https://envisionbox.org/krakow_flyer.html
+#event_url: https://envisionbox.org/krakow_flyer.html
 
 #location: Institute of Psychology, Jagiellonian University
 #address:
@@ -17,9 +17,9 @@ event_url: https://envisionbox.org/krakow_flyer.html
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-02'
-date_end: '2024-05-04'
-all_day: true
+#date: '2024-05-02'
+#date_end: '2024-05-04'
+#all_day: true
 
 # Schedule page publish date (NOT talk date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -34,11 +34,11 @@ all_day: true
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/bialek_arek/status/1764588155859018093
+#links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/bialek_arek/status/1764588155859018093
 url_code: ''
 url_pdf: ''
 url_slides: ''
