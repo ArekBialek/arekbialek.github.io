@@ -59,4 +59,4 @@ all_day: true
 #projects:
 #  - example
 ---
-If you are interested in participation please contact me.
+If you are interested in participation please contact me...
