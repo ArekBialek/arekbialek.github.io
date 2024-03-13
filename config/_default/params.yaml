@@ -55,8 +55,9 @@ footer:
 # Localization
 
 locale:
-  date_format: Mon Jan 2 2006
-  time_format: 15:04
+  #date_format: Mon Jan 2 2006
+  time.Format "2 Jan 2006" 
+  #time_format: 15:04
   address_format: en-us
 
 # Site features
