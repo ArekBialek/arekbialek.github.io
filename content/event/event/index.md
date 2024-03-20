@@ -12,8 +12,8 @@ location: Institute of Psychology, Jagiellonian University
 #  postcode: '94305'
 #  country: United States
 
-#summary: An example talk using Hugo Blox Builder's Markdown slides feature...
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: The goal of this workshop is to present and discuss the theoretical foundations of studying human behavior as part of an interaction and the methodological commitments this would imply. We will discuss current and new methods of data collection and analysis which contribute to our understanding of interpersonal interactions and allow new questions to be asked.
+#abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
