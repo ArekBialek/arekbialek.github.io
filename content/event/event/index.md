@@ -22,7 +22,7 @@ location: Institute of Psychology, Jagiellonian University
 #all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-03-02T00:22:14-04:00'
+publishDate: 2024-03-02T00:22:14-04:00
 
 #authors: []
 #tags: []
