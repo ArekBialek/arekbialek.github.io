@@ -55,8 +55,8 @@ footer:
 # Localization
 
 locale:
-  #date_format: Mon Jan 2 2006
-  #time.Format: "2 Jan 2006" 
+  date_format: 2006-01-02
+  time.Format: "2 Jan 2006" 
   dateFormat: "Jan 2, 2006"
   #time_format: 15:04
   address_format: en-us
