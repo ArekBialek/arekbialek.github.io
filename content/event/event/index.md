@@ -60,5 +60,4 @@ date: 2024-05-02
 #projects:
 #  - example
 ---
-The goal of this workshop is to present and discuss the theoretical foundations of studying human behavior as part of an interaction and the methodological commitments this would imply. We will discuss current and new methods of data collection and analysis which contribute to our understanding of interpersonal interactions and allow new questions to be asked. 
 If you are interested in participation please contact me...
