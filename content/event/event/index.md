@@ -1,6 +1,6 @@
 ---
 title: Behavioral Dynamics in Social Interactions
-summary: We organize great workshop :)
+#summary: We organize great workshop :)
 #event: Hugo Blox Builder Conference
 event_url: https://envisionbox.org/krakow_flyer.html
 
@@ -31,8 +31,9 @@ date: 2024-05-02
 # Is this a featured talk? (true/false)
 #featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#image:
+![Image alt](images/Spring School Krakow no date.jpg)
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
 
 #links:
