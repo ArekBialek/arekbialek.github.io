@@ -31,8 +31,8 @@ date: 2024-05-02
 # Is this a featured talk? (true/false)
 #featured: false
 
-#image:
-![Image alt](images/Spring School Krakow no date.jpg)
+image:
+![Image alt(images/Spring School Krakow no date.jpg)
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
 
