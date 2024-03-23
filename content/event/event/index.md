@@ -35,11 +35,11 @@ date: 2024-05-02
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
 
-#links:
+links:
+    url: https://twitter.com/bialek_arek/status/1764588155859018093
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
-#    url: https://twitter.com/bialek_arek/status/1764588155859018093
 #url_code: ''
 #url_pdf: ''
 #url_slides: ''
